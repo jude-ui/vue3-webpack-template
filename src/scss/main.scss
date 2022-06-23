@@ -1,0 +1,9 @@
+$color--text: #000;
+
+body {
+  h2 {
+    display: flex;
+    padding-top:25px;
+    color: $color--text;
+  }
+}
